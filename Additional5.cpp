@@ -1,4 +1,4 @@
-﻿#include <iostream> // добавила библиотеку iostream
+﻿#include <iostream> // добавил библиотеку iostream
 
 class Foo
 {
